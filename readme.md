@@ -12,8 +12,8 @@ Ensure you have the following installed:
 
 1. Clone the repository (or create a new directory for your project):
     ```bash
-    mkdir salingjaga-automation
-    cd salingjaga-automation
+    mkdir kitabisa_ui_testing_test_FakhriNaufalZuhdi
+    cd kitabisa_ui_testing_test_FakhriNaufalZuhdi
     ```
 
 2. Initialize the project:
